@@ -1,12 +1,27 @@
 ## Hi there 👋
 
-<!--
+I’m Rich Howell, a Data Wrangler & SQL Server Mechanic. On this site I share my experiences with SQL Server
 
-**Here are some ideas to get you started:**
+## Rich on GitHub
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🔭 Projects we are currently working on 
+  - [RichMonitoring](https://github.com/Rich-In-SQL/RichMonitoring)
+  - [Availability-Agent](https://github.com/Rich-In-SQL/Availability-Agent)
+  - [SQL-Server-Setup](https://github.com/Rich-In-SQL/SQL-Server-Setup)
+
+[![Rich's GitHub stats](https://github-readme-stats.vercel.app/api?username=rich-howell&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Rich in the Community
+
+- 🏠 I write words at https://richinsql.com
+- 🎤 My YouTube channel https://www.youtube.com/@richinsql 
+
+- 📫 How to reach me:
+  - [ 🕊  Mastodon](https://dataplatform.social/@richinsql)
+  - [🦑 GitHub](https://github.com/rich-in-sql)
+
+## Rich at Work
+
+- 🌱 I'm work with Microsoft SQL Server and C# on a day to day basis.
+
+<p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=/Rich-In-SQL.visitor-badge"></p>
